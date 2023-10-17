@@ -17,11 +17,12 @@ pip install -r requirements.txt
 Running tests
 -------------
 
-The `test cases`_ are located in the ``login_tests`` directory. They can be
+The `test cases`_ are located in the ``SubmitNewApplication`` directory. They can be
 executed using the ``robot`` command::
 
     robot SubmitNewApplication
 
-You can also run an individual test case file and use various command line
-    robot SubmitNewApplication/SubmitApplication.robot
 
+You can also run an individual test case file and use various command line
+
+    robot SubmitNewApplication/SubmitApplication.robot
